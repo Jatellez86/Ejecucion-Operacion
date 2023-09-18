@@ -1,36 +1,19 @@
 # Ejecucion-Operacion
 Informe en power bi, mediante un modelo de datos se muestran indicadores clave de ejecucion de kilometros, puntualidad etc.
 
-# 📊 Nombre del Proyecto de Power BI
-
-## 📑 Tabla de Contenidos
-
-- [Introducción](#-introducción)
-- [Pre-requisitos](#-pre-requisitos)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Funcionamiento](#-funcionamiento)
-- [Contacto](#-contacto)
-
-## 🌟 Introducción
-
-Breve descripción del proyecto, qué tipo de informes contiene, qué preguntas intenta responder, etc.
+# 📊 informe Ejecucion
 
 ## 🔒 Pre-requisitos
 
-Lista de software, hardware o conocimientos previos necesarios para utilizar este proyecto.
+Este proyecto usa tablas transaccionales y dimensionales, que conectan un DWH y repositorios en la nube
 
 ## 📂 Estructura del Proyecto
 
 Descripción general de cómo está organizado el proyecto.
 
-- `/Data`: Fuentes de datos utilizadas en el proyecto.
-- `/Scripts`: Scripts para la transformación de datos.
+- `/Data`: Postgres SQL.
+- `/Scripts`: Limpieza de datos con R, en preparacion de los datos.
 - `/Reports`: Informes de Power BI.
-
-## ⚙ Funcionamiento
-
-Explicación detallada de cómo funciona el proyecto, qué tipo de visualizaciones se han utilizado, qué tipo de análisis se puede realizar, etc.
-
 
 
 ## Autor
